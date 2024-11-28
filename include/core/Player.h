@@ -2,6 +2,7 @@
 #define Player_H
 
 #include <iostream>
+#include <vector>
 
 class Player{
 
@@ -10,6 +11,10 @@ class Player{
         std::string Player_Name;
 
         int Player_Age;
+
+        int ExperienceLevel;
+
+        int EvaluateSkillLevel();
         
 };
 
