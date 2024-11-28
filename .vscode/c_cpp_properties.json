@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/include/core",
+                "${workspaceFolder}/include/core/Players/Bowl",
+                "${workspaceFolder}/include/core/Players/Bowl/Medium_Fast",
+                "${workspaceFolder}/include/core/Players/Bowl/Fast",
+                "${workspaceFolder}/include/core/Players/Bowl/Spin",
+                "${workspaceFolder}/include/core/Players/Bat"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\TDM-GCC-64\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
